@@ -12,7 +12,7 @@ const LINKS = [
     value: "My Products",
   },
   {
-    href: "/marketplace/courses/managed",
+    href: "/marketplace/products/managed",
     value: "Manage Products",
     requireAdmin: true,
   },
